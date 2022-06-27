@@ -17,8 +17,29 @@
 
 h1 {
     margin: 10px;
+    color: white;
 }
 
 input {
-    
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-top: 10px;
+    padding: 10px;
+    direction: none;
+    border: none;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#resultado { 
+    margin-top: 10px;
+}
+
+#resultado p{ 
+    color: white;
+    margin-top: 10px;
 }
